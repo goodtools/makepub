@@ -1,0 +1,20 @@
+@font-face {
+	font-family:"zw";
+	src:url(res:///system/fonts/zw.ttf),
+	url(res:///system/media/sdcard/fonts/zw.ttf),
+	url(res:///media/fonts/zw.ttf),
+	url(res:///sdcard/fonts/zw.ttf),
+	url(res:///system/fonts/DroidSansFallback.ttf);
+}
+body {
+	padding: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	margin-left: 1%;
+	margin-right: 1%;
+	line-height:130%;
+	text-align: justify;
+	font-family:"zw";
+	font-size:97%;
+}
+h1{text-align:right; margin-right:2em; page-break-before: always; font-size:1.6em; font-weight:bold;} h3 { text-align: center;}p.center{text-align:center;}p.catalog{margin:20px 10px;padding:0;}
